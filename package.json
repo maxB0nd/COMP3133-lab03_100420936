@@ -1,0 +1,25 @@
+{
+  "name": "lab3_restaurant_database",
+  "version": "1.0.0",
+  "description": "Lab 03 MongoDB & Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxB0nd/COMP3133-lab03_100420936.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Mongoose",
+    "REST",
+    "API"
+  ],
+  "author": "Max Bondarenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxB0nd/COMP3133-lab03_100420936/issues"
+  },
+  "homepage": "https://github.com/maxB0nd/COMP3133-lab03_100420936#readme"
+}
